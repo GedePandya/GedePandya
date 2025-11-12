@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate frontend developer focused on creating engaging and intuitive user experiences.<br>With expertise in modern technologies like React, Vue, and CSS animations, I strive to deliver<br>websites that are not only functional but also visually stunning
+I'm a passionate frontend developer focused on creating engaging and intuitive user experiences.<br>With expertise in modern technologies like React, node, angular and CSS animations, I strive to deliver<br>websites that are not only functional but also visually stunning
 
 
 ## 🌐 Socials:
